@@ -1,0 +1,54 @@
+{
+  "reducedMotion": false,
+  "shell": {
+    "borders": {
+      "enabled": false,
+      "width": 1,
+      "opacity": 0.18,
+      "gradient": false
+    },
+    "corners": {
+      "panelRadius": 18,
+      "itemRadius": 9,
+      "pillRadius": 50
+    },
+    "typography": {
+      "fontFamily": "Adwaita Sans",
+      "fontBold": false,
+      "fontScale": 1
+    },
+    "effects": {
+      "blur": false,
+      "blurStrength": 0.8,
+      "shadows": true,
+      "shadowOpacity": 0.22,
+      "glow": false,
+      "frostedGlass": false
+    },
+    "panels": {
+      "opacity": 1,
+      "padding": 18,
+      "itemSpacing": 10,
+      "islandGap": 10
+    },
+    "islands": {
+      "padding": 10,
+      "hoverLift": true,
+      "hoverGlow": true,
+      "hoverScale": 1.025
+    },
+    "notifications": {
+      "toastPosition": "top-right",
+      "toastDuration": 5000,
+      "maxToasts": 3,
+      "stackToasts": true,
+      "groupSameApp": true,
+      "showInDnd": false
+    },
+    "animations": {
+      "speed": 1,
+      "springStrength": 4.8,
+      "springDamping": 0.82
+    }
+  }
+}

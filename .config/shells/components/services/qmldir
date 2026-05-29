@@ -1,0 +1,10 @@
+singleton Config 1.0 core/Config.qml
+singleton BluetoothState 1.0 bluetooth/BluetoothState.qml
+StateService 1.0 core/StateService.qml
+Theme 1.0 core/Theme.qml
+NotificationService 1.0 notifications/NotificationService.qml
+singleton RecorderState 1.0 recorder/RecorderState.qml
+NetworkState 1.0 network/NetworkState.qml
+NetworkSpeed 1.0 network/NetworkSpeed.qml
+MemoryStats 1.0 system/MemoryStats.qml
+ActiveWindow 1.0 window/ActiveWindow.qml
